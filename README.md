@@ -1,4 +1,5 @@
 # Deployable Chatbot Widget
+# Made with: Model A: im-a-good-gpt2-chatbot
 
 This project creates a deployable chatbot that can be embedded as a JavaScript widget in multiple external websites. The chatbot utilizes the latest OpenAI GPT-4 model to process and respond to user inputs. It features conversation embeddings for recall and memory and can perform similarity searches over the conversation history. Additionally, it can collect user information (name, email, phone number) and submit this data to a specified CRM endpoint.
 
