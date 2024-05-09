@@ -27,8 +27,8 @@ Before you begin, ensure you have the following:
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/webdevtodayjason/marketingchatbot.git
+cd marketingchatbot
 ```
 
 ### 2. Install Dependencies
